@@ -1,0 +1,4 @@
+name: ResourceChangerCMD
+version: '${version}'
+main: marumasa.resource_changer_cmd.ResourceChangerCMD
+api-version: '1.20'
